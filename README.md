@@ -1,5 +1,6 @@
 freesound-client-example
 ========================
+[![Build Status](https://travis-ci.org/amilajack/freesound-client-example.svg?branch=master)](https://travis-ci.org/amilajack/freesound-client-example)
 
 [Full API docs](https://github.com/amilajack/freesound-client#usage)
 
