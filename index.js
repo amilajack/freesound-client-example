@@ -26,7 +26,7 @@ async function main() {
   const result = await freeSound.contentSearch({
     target: 'lowlevel.pitch.mean:220'
   });
-  console.log(results);
+  console.log(result);
 
   // Getting a user
   const user = await freeSound.getUser('Jovica');
